@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Angelica
-- 👀 I’m interested in learning different languages
 - 🌱 I’m currently majoring in Computer Engineering at UF
 - 💞️ I’m looking to intern in the Software or Hardware Engineering field
 - 📫 How to reach me: aavila5690@gmail.com
