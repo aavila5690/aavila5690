@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Angelica
-- 🌱 I’m currently majoring in Computer Engineering at UF
-- 💞️ I’m looking to intern in the Software or Hardware Engineering field
+- 🌱 I recently graduated with a BS in Computer Engineering at UF
+- 💞️ I’m looking to work in the Software or Hardware Engineering field
 - 📫 How to reach me: aavila5690@gmail.com
 
 <!---
